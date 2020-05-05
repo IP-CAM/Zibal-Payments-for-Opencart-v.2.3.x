@@ -10,10 +10,8 @@ $_['text_extension']   	  = 'extensions';
 $_['text_success']        = 'Success!';
 $_['text_zibal']  	      = '<a href="https://zibal.ir" target="_blank"><img src="view/image/payment/zibal.png" alt="zibal.ir" title="zibal.ir" style="border:1px solid #eee;" /></a>';
 $_['text_edit']           = 'ویرایش تنظیمات درگاه پرداخت زیبال';
-// $_['text_host_iran']      = 'هاست داخل ایران';
-// $_['text_host_foreign']   = 'هاست خارج از کشور';
 $_['text_support']        = 'Support';
-// $_['text_support_title']  = 'اپن کارت فارسی دات کام';
+// $_['text_support_title']  = '';
 
 // Entry
 $_['entry_api'] = 'کلید API دریافتی';
@@ -47,9 +45,4 @@ $_['error_send'] = 'مقدار دهی فیلد آدرس ارسال داده ها
 $_['error_verify'] = 'مقدار دهی فیلد آدرس تایید تراکنش الزامی است.';
 $_['error_gateway'] = 'مقدار دهی فیلد آدرس انتقال به صفحه پرداخت الزامی است.';
 $_['error_merchant'] = 'مقدار دهی فیلد شماره پذیرنده الزامی است.';
-
-
-// // Error
-// $_['error_permission']    = 'هشدار شما اجازه ویرایش ماژول زرين پال را ندارید!';
-// $_['error_pin']   		  = 'کد دروازه پرداخت مورد نیاز است!'; 
 ?>
